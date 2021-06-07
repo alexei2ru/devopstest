@@ -116,4 +116,8 @@ if ! shopt -oq posix; then
   fi
 fi
 
+
 echo "Welcome to hell"
+
+alias ltr='ls -lrt'
+
